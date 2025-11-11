@@ -33,5 +33,5 @@ if (tes.getTemperatura() > mediaTemp){
 
 }
     }
-    
+
 }
