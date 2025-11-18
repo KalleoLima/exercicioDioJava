@@ -1,4 +1,4 @@
-package Temperatura;
+package ExercicioList.Investigador.Temperatura;
 
 import java.util.ArrayList;
 import java.util.List;

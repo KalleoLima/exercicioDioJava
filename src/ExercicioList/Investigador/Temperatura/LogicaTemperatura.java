@@ -1,4 +1,4 @@
-package Temperatura;
+package ExercicioList.Investigador.Temperatura;
 
 public class LogicaTemperatura {
 String Mes;
@@ -29,7 +29,7 @@ double temperatura;
 
     @Override
     public String toString() {
-        return "Temperatura{" +
+        return "ExercicioList.Investigador.Temperatura{" +
                 "Mes='" + Mes + '\'' +
                 ", temperatura=" + temperatura +
                 '}';

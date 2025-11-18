@@ -1,4 +1,4 @@
-package Investigador;
+package ExercicioList.Investigador;
 
 import java.util.ArrayList;
 import java.util.List;
